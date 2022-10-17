@@ -17,3 +17,5 @@ Berikut ini langkah langkah untuk menggunakan git
 	---
 
 	![gambar 1](pict_practice/ss1.png)
+	![ss1](pict_practice/ss1.png)
+	
