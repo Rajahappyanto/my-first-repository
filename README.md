@@ -16,4 +16,4 @@ Berikut ini langkah langkah untuk menggunakan git
 	$ git config --list
 	---
 
-	![ss1](pict_practice/ss1.png)
+	![gambar 1](pict_practice/ss1.png)
